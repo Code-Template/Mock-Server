@@ -23,7 +23,7 @@ function subRouter(express) {
         return res.json({
             result: 'success',
             content: {
-                email: 'ben@dianrong.com'
+                email: 'ben@test.com'
             }
         });
     });
